@@ -33,7 +33,7 @@ This repository includes files with Ruby on Rails that can be used to display he
 - Ruby files
 - Rails files
 - Ruby linters file
-
+- [Front end PR](https://github.com/Benawi/hello-react-front-end/pull/1)
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -56,7 +56,7 @@ This repository includes files with Ruby on Rails that can be used to display he
       PostgreSQL
       </a>
     </li>
-       <li><a href="https://react.dev/learn/start-a-new-react-project#create-react-app">React </a></li>
+      
   </ul>
   
 </ul>
